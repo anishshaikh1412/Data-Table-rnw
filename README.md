@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-🔗 https://data-table-rnw.vercel.app/
+🔗 https://data-table-rnw.vercel.app
 
 ## Features
 
@@ -17,7 +17,3 @@
 ```bash
 npm install
 npm run dev
-```md
-## git add README.mdLive Demo
-
-🔗 https://data-table-rnw.vercel.app
