@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Data Table Project
 
 A simple React Data Table application built with React Bootstrap.
@@ -46,3 +47,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
+=======
+# Data-Table-rnw
+>>>>>>> b3fabb67a354cee11cbbff56bf3c7dfd3b719be1
