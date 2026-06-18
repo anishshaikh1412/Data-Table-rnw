@@ -1,52 +1,23 @@
-<<<<<<< HEAD
-# React Data Table Project
+# Data-Table-rnw
 
-A simple React Data Table application built with React Bootstrap.
+## Live Demo
+
+🔗 https://data-table-rnw.vercel.app/
 
 ## Features
 
-* Search products by name
-* Filter products by category
-* Sort products by price
-* Pagination support
-* Toggle payment status
-
----
-
-## Tech Stack
-
-* React.js
-* React Bootstrap
-* JavaScript
-* Bootstrap 5
-
----
+- Search
+- Filter
+- Sort
+- Pagination
+- Status Toggle
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/ayushh025/Data-Table.git
-```
-
-Go to the project folder:
-
-```bash
-cd your-repository-name
-```
-
-Install dependencies:
-
 ```bash
 npm install
-```
-
-Start the development server:
-
-```bash
 npm run dev
-```
-=======
-# Data-Table-rnw
->>>>>>> b3fabb67a354cee11cbbff56bf3c7dfd3b719be1
+```md
+## git add README.mdLive Demo
+
+🔗 https://data-table-rnw.vercel.app
